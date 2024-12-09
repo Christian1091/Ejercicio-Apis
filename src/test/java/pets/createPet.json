@@ -1,0 +1,18 @@
+{
+  "id": 2060,
+  "category": {
+    "id": 30,
+    "name": "Exotic pets"
+  },
+  "name": "Ruffus",
+  "photoUrls": [
+    "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nationalgeographic.com%2Fanimals%2Fmammals%2Ffacts%2Fdomestic-dog&psig=AOvVaw0H-fkYGW3s-5iHA47T-dji&ust=1733503909891000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCd9MiMkYoDFQAAAAAdAAAAABAE"
+  ],
+  "tags": [
+    {
+      "id": 31,
+      "name": "Ruffus-0999999999"
+    }
+  ],
+  "status": "available"
+}
